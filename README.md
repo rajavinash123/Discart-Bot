@@ -13,9 +13,6 @@ A powerful Discord bot designed for placement preparation, student support, and 
 - 🏢 Company-wise discussion rooms
 - 📅 Placement drive reminders
 -
-
----
-
 ## 🛠️ Tech Stack
 
 - Node.js
@@ -25,6 +22,7 @@ A powerful Discord bot designed for placement preparation, student support, and 
 
 ---
 
+
 ## 📦 Installation
 
 ```bash
@@ -32,7 +30,8 @@ git clone [https://github.com/yourusername/placement-support-bot.git
 cd placement-support-bot](https://github.com/rajavinash123/Discart-Bot)
 npm install
 
-<img width="1437" height="596" alt="image" src="https://github.com/user-attachments/assets/2f706eac-dc22-4d49-851f-0277db572dc4" />
+<img width="1470" height="510" alt="Screenshot 2026-05-18 113720" src="https://github.com/user-attachments/assets/0a0786f7-47b7-4a62-80b1-3e946ea9f50a" />
+
 
 ⚙️ Environment Variables
 
